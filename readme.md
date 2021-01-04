@@ -1,4 +1,4 @@
-# Research on car sales ads
+# What affects a vehicle's price?
 
 ### Background
 
@@ -10,7 +10,7 @@ https://practicum.yandex.com/data-scientist
 
 You're an analyst at Crankshaft List. Hundreds of free advertisements for vehicles are published on your site every day. You need to study data collected over the last few years and determine which factors influence the price of a vehicle.
 
-Skills Used: Exploratory Data Analysis
+**Skills Used: Exploratory Data Analysis**
 
 ### Data Description
 
